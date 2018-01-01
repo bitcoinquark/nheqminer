@@ -252,7 +252,7 @@ int main(int argc, char* argv[])
 	std::cout << std::endl;
 
 	std::string location = "pool.bitcoinquark.org:3357";
-	std::string user = "";
+	std::string user = "1DFaGdARErmsMTh4W6g53nFMVd6Kef7vi9";
 	std::string password = "x";
 	int num_threads = 0;
 	bool benchmark = false;
